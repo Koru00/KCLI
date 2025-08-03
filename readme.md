@@ -21,7 +21,7 @@ Windows: Uses conio.h for keyboard input.
 Building
 
 Clone the repository:
-git clone https://github.com/your-username/KCLI.git
+git clone https://github.com/Koru00/KCLI.git
 cd KCLI
 
 
